@@ -1,0 +1,12 @@
+# Артефакты сборки FPGA (Gowin IDE): в них попадают локальные пути
+fpga/impl/
+*.fs
+*.bin
+*.user
+
+# Системный мусор
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*~
